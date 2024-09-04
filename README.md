@@ -1,3 +1,5 @@
+Link do PDF: [Paulo_Ricardo_atividade_2.pdf](https://github.com/user-attachments/files/16859493/Paulo_Ricardo_atividade_2.pdf)
+
 ## 1. Baixando e Configurando o Repositório
 
 Execute o comando "git clone PauloRicardo-01/Teste_Software_Mutantes_2024_Lima_Paulo"
